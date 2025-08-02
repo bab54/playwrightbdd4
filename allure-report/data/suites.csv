@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6886","Successful login with valid credentials","webkit","Fri Jul 18 20:01:56 BST 2025","passed","Fri Jul 18 20:02:03 BST 2025","User Login to BPB Online","tests\features\login.feature.spec.js","",""
+"","7849","Successful login with valid credentials","webkit","Fri Jul 18 16:23:02 BST 2025","passed","Fri Jul 18 16:23:10 BST 2025","User Login to BPB Online","login.feature.spec.js","",""
+"","7388","Successful login with valid credentials","firefox","Fri Jul 18 20:01:56 BST 2025","passed","Fri Jul 18 20:02:03 BST 2025","User Login to BPB Online","tests\features\login.feature.spec.js","",""
+"","15972","Successful login with valid credentials","chromium","Fri Jul 18 20:01:56 BST 2025","passed","Fri Jul 18 20:02:12 BST 2025","User Login to BPB Online","tests\features\login.feature.spec.js","",""
+"","8479","Successful login with valid credentials","chromium","Fri Jul 18 16:23:02 BST 2025","passed","Fri Jul 18 16:23:10 BST 2025","User Login to BPB Online","login.feature.spec.js","",""
+"","6250","Successful login with valid credentials","firefox","Fri Jul 18 16:23:02 BST 2025","passed","Fri Jul 18 16:23:08 BST 2025","User Login to BPB Online","login.feature.spec.js","",""
